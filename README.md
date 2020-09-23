@@ -1,2 +1,2 @@
 # Arthur-Scripts
-Scripts from Arthur's memory game. All other project files are not included.
+Arthur: Memory Game's scripts. All other project files are not included.
